@@ -1,7 +1,7 @@
 ## 반갑습니다 ! 👋🏻
 AI 서비스를 화면으로 구현해내는 4년차 프론트엔드 개발자 김유진입니다.
 
-🔗 [포트폴리오 보러가기](https://yujin-resume.vercel.app)
+🔗 [포트폴리오 보러가기](https://yujinkim-portfolio.vercel.app/)
 
 ### ⚒️ Skills
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
